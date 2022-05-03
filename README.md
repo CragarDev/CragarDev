@@ -2,9 +2,10 @@
 - 🚁 I live in Norman OK, it's a great town!
 - 👀 I’m interested in a lot of things, it changes daily. 😎
 - 🌱 I’m currently going through Coding Dojo bootcamp
--    We Just finished The Python FullStack, and the Java FullStack moving into the MERN Stack now.
--    We are halfway through the Java Stack and things are going great!
-- 💞️ coming soon.... It's All Good!!!
+-    We finished The Python FullStack,
+-    Just finished the Java FullStack moving into MERN.
+-    We just started the MERN Stack and things are going great!
+- 💞️ coming soon....Projects and Deployment... It's All Good!!!
 - 📫 How to reach me: cragardev@gmail.com
 
 <!---
