@@ -1,10 +1,11 @@
 - 👋 Hi, I’m @CragarDev, or you can call me Craig or Cragar
 - 🚁 I live in Norman OK, it's a great town!
 - 👀 I’m interested in a lot of things, it changes daily. 😎
-- 🌱 I’m currently going through Coding Dojo bootcamp
+- 🌱 Finished Coding Dojo bootcamp,
 -    Finished Python FullStack,
 -    Finished  Java FullStack.
 -    Finished  MERN Stack and things are going great!
+-    Finished the bootcamp, now to start the job search process....
 -    Deploying project - My Home Inventory - link coming soon!!!
 - 💞️ coming soon....Projects and Deployment... It's All Good!!!
 - 📫 How to reach me: cragardev@gmail.com
