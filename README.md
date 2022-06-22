@@ -7,11 +7,11 @@
 -    Finished  MERN Stack and things are going great!
 -    Finished the bootcamp, now to start the job search process....
 -    Deployed MERN project - My Home Inventory - link: http://34.205.63.10/mhi
--    Currently Learning:  Angular, Typescript, Strapi, 
+-    Currently Learning:  Angular, Typescript, Strapi, NextJs, Styled Components
 - 💞️ coming soon....Projects and Deployment... It's All Good!!!
 - 📫 How to reach me: cragardev@gmail.com
 
-Latest Project: My Todo List - built using Angular
+Latest Project: My Todo List - built using Angular, Typescript
 
 <!---
 CragarDev/CragarDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
