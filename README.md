@@ -7,7 +7,7 @@
 -    Finished  MERN Stack and things are going great!
 -    Finished the bootcamp, now to start the job search process....
 -    Deployed MERN project - My Home Inventory - link: http://34.205.63.10/mhi
--    Currently Learning:  Angular, Typescript, Stripi, 
+-    Currently Learning:  Angular, Typescript, Strapi, 
 - 💞️ coming soon....Projects and Deployment... It's All Good!!!
 - 📫 How to reach me: cragardev@gmail.com
 
