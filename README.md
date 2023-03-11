@@ -1,7 +1,13 @@
 # 💫 Hello and welcome...
 
 ## A lttle bit about me:
-👋 Hi, I’m @CragarDev, or you can call me Craig or Cragar<br>🚁 Reside in Norman OK, it's a great town!<br>👀 I’m interested in a lot of things, it changes daily. 😎💻📱🕹🎧🎸🎶🏡👨‍👩‍👦‍👦<br>🌱 Recently graduated from Coding Dojo bootcamp,<br>🖥 There I learned Three full stacks of web development - Python, Java and MERN Stacks<br>Since the bootcamp, I was in the job searching process, I put the job searching on the backburner due to my freelance video production keeping me extremely busy along with playing guitar in a local alt-southern-rock band called Dirt Road Saints... It's a catch 22 for me... and to keep developing, I've been working on a python app for monthly budgeting, I'll post it up once I've finished?<br><br>Contact me if you know of a position that might be available!<br><br>Recent Projects:<br>     👨🏼‍💻  My Portfolio - https://craigburke-portfolio.netlify.app<br>     🖲  Deployed MERN project - My Home Inventory - link: http://3.93.215.237/mhi<br>     🖱  Deployed React Project - My Garage Sale - https://my-garage-sale-frontend.vercel.app<br><br>Currently Working on: Using Python to build a financial budgeting App<br><br>💞️ coming soon....More Projects and Deployment... It's All Good!!!<br>📫 How to reach me: cragardev@gmail.com<br>✌🏻✌🏻 Have a GREAT day!!!! ☕️😎<br>
+👋 Hi, I’m @CragarDev, or you can call me Craig or Cragar<br>🚁 Reside in Norman OK, it's a great town!<br>👀 I’m interested in a lot of things, it changes daily. 😎💻📱🕹🎧🎸🎶🏡👨‍👩‍👦‍👦<br>🌱 Recently graduated from Coding Dojo bootcamp,<br>🖥 There I learned Three full stacks of web development - Python, Java and MERN Stacks<br>
+
+
+## Since the bootcamp:
+My freelance video production has been keeping me extremely busy, which is good money flow but makes it hard to focus on looking for a coding job.
+I also play guitar in a local alt-southern-rock band called the Dirt Road Saints, venues to come soon... 
+But to keep on developing, I've been working on a python GUI app for monthly budgeting using tkinter, I'll post it up once I've finished.<br><br>Contact me if you know of a position that might be available!<br><br>Recent Projects:<br>     👨🏼‍💻  My Portfolio - https://craigburke-portfolio.netlify.app<br>     🖲  Deployed MERN project - My Home Inventory - link: http://3.93.215.237/mhi<br>     🖱  Deployed React Project - My Garage Sale - https://my-garage-sale-frontend.vercel.app<br><br>Currently Working on: Using Python to build a financial budgeting App<br><br>💞️ coming soon....More Projects and Deployment... It's All Good!!!<br>📫 How to reach me: cragardev@gmail.com<br>✌🏻✌🏻 Have a GREAT day!!!! ☕️😎<br>
 
 
 ## 🌐 Socials:
