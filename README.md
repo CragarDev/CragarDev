@@ -1,7 +1,7 @@
 # 💫 Hello and welcome...
 
 ## A lttle bit about me:
-👋 Hi, I’m @CragarDev, or you can call me Craig or Cragar<br>🚁 Reside in Norman OK, it's a great town!<br>👀 I’m interested in a lot of things, it changes daily. 😎💻📱🕹🎧🎸🎶🏡👨‍👩‍👦‍👦<br>🌱 Recently graduated from Coding Dojo bootcamp,<br>🖥 There I learned Three full stacks of web development - Python, Java and MERN Stacks<br>
+👋 Hi, I’m @CragarDev, or you can call me Craig or Cragar<br>🚁 Reside in Norman OK, with wife and 2 grandsons we are raising<br>👀 I’m interested in a lot of things, it changes daily. 😎💻📱🕹🎧🎸🎶🏡👨‍👩‍👦‍👦<br>🌱 Recently graduated from Coding Dojo bootcamp,<br>🖥 There I learned Three full stacks of web development - Python, Java and MERN Stacks<br>
 
 
 ## Since the bootcamp:
