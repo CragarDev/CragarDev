@@ -5,9 +5,9 @@
 
 
 ## Since the bootcamp:
-My freelance video production has been keeping me extremely busy, which is good money flow but makes it hard to focus on looking for a coding job.
+My freelance video production had kept me extremely busy, but now it has slowed down and I'm looking for work as a developer, so if you know of a position that might be available please contact me, thanks!
 I also play guitar in a local alt-southern-rock band called the Dirt Road Saints, venues to come soon...<br>
-And... to keep on developing, I've been working on a python GUI app for monthly budgeting using tkinter, I'll post it up once I've finished.<br><br>Contact me if you know of a position that might be available!<br><br>Recent Projects:<br>     👨🏼‍💻  My Portfolio - https://craigburke-portfolio.netlify.app<br>     🖲  Deployed MERN project - My Home Inventory - link: http://3.93.215.237/mhi<br>     🖱  Deployed React Project - My Garage Sale - https://my-garage-sale-frontend.vercel.app<br><br>Currently Working on: Using Python to build a financial budgeting App<br><br>💞️ coming soon....More Projects and Deployment... It's All Good!!!<br>📫 How to reach me: cragardev@gmail.com<br>✌🏻✌🏻 Have a GREAT day!!!! ☕️😎<br>
+And... to keep on developing, I recently built a project using Python/TKinter it was a personal budgeting app<br><br>Recent Projects:<br>     👨🏼‍💻  My Portfolio - https://craigburke-portfolio.netlify.app<br>     🖲  Some of my deployments have been: a MERN project: My Home Inventory, a React Project: My Garage Sale and I'm currently Working on: a Python/Django project building a user based web app that connects home owners with service providers in the landscape business, I'll be deploying this in the next couple of weeks<br><br>💞️ coming soon....More Projects and Deployment... It's All Good!!!<br>📫 How to reach me: cragardev@gmail.com<br>✌🏻✌🏻 Have a GREAT day!!!! ☕️😎<br>
 
 
 ## 🌐 Socials:
