@@ -1,7 +1,7 @@
 # 💫 Hello and welcome...
 
 ## A little bit about me:
-<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />, I’m @CragarDev, or you can call me Craig or Cragar<br>🚁 Reside in Norman OK, with wife and 2 grandsons we are raising<br>👀 I’m interested in a lot of things, it changes daily. 😎💻📱🕹🎧🎸🎶🏡👨‍👩‍👦‍👦<br>🌱 Recently graduated from Coding Dojo bootcamp,<br>🖥 There I learned Three full stacks of web development - Python, Java and MERN Stacks<br>
+👋 Hi , I’m @CragarDev, or you can call me Craig or Cragar<br>🚁 Reside in Norman OK, with wife and 2 grandsons we are raising<br>👀 I’m interested in a lot of things, it changes daily. 😎💻📱🕹🎧🎸🎶🏡👨‍👩‍👦‍👦<br>🌱 Recently graduated from Coding Dojo bootcamp,<br>🖥 There I learned Three full stacks of web development - Python, Java and MERN Stacks<br>
 
 
 ## Since the bootcamp:
