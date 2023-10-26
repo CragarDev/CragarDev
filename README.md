@@ -1,5 +1,4 @@
-
-![CraigBurkeReadMeHeader08](https://github.com/CragarDev/CragarDev/assets/98239300/a1d6c910-a354-4966-9448-f7bb9e62dd5f)
+![CraigBurkeReadMeHeader09](https://github.com/CragarDev/CragarDev/assets/98239300/82e8b424-7e24-46d6-8fc2-eb4c7c49615d)
 
 # 💫 Hello and welcome...
 
