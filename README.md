@@ -4,13 +4,13 @@
 # 💫 Hello and welcome...
 
 ## A little bit about me:
-👋 Hi , I’m @CragarDev, or you can call me Craig or Cragar<br>🚁 Reside in Norman OK, with wife and 2 grandsons we are raising<br>👀 I’m interested in a lot of things, it changes daily. 😎💻📱🕹🎧🎸🎶🏡👨‍👩‍👦‍👦<br>🌱 Recently graduated from Coding Dojo bootcamp,<br>🖥 There I learned Three full stacks of web development - Python, Java and MERN Stacks<br>
+👋 Hi , I’m @CragarDev, or you can call me Craig or Cragar<br>🚁 Reside in Norman OK with a wonderful wife and 2 grandsons that we are raising<br>👀 My interests span a lot of things, it changes daily. 😎💻📱🕹🎧🎸🎶🏡👨‍👩‍👦‍👦<br>🌱 Recently graduated from Coding Dojo bootcamp, where I learned three full stacks of web development - Python, Java and MERN Stacks<br>🖥 
 
 
 ## Since the bootcamp:
-My freelance video production had kept me extremely busy, but now it has slowed down and I'm looking for work as a developer, so if you know of a position that might be available please contact me, thanks!
-I also play guitar in a local alt-southern-rock band called the Dirt Road Saints, venues to come soon...<br>
-And... to keep on developing, I recently built a project using Python/TKinter it was a personal budgeting app<br><br>Recent Projects:<br>     👨🏼‍💻  My Portfolio - https://craigburke-portfolio.netlify.app<br>     🖲  Some of my deployments have been: a MERN project: My Home Inventory, a React Project: My Garage Sale and I'm currently Working on: a Python/Django project building a user based web app that connects home owners with service providers in the landscape business, I'll be deploying this in the next couple of weeks<br><br>💞️ coming soon....More Projects and Deployment... It's All Good!!!<br>📫 How to reach me: cragardev@gmail.com<br>✌🏻✌🏻 Have a GREAT day!!!! ☕️😎<br>
+My freelance video production had kept me extremely busy, it has now slowed down a bit and I find myself looking for work as a developer, if you know of a position that might be available please contact me, thanks!
+I'm also a guitar player in a local alt-southern-rock band called the Dirt Road Saints, we have recently started to gig in the Norman Ok area...<br>
+And... to keep on developing, I recently built a project using Python/TKinter it was a personal budgeting app.<br><br>Recent Projects:<br<     👨🏼‍💻  My Portfolio - https://craigburke-portfolio.netlify.app<br>     🖲  Some of my deployments have been: a MERN project: My Home Inventory, a React Project: My Garage Sale and I'm currently Working on: a Python/Django project building a user based web app that connects home owners with service providers in the landscape business<br><br>💞️ coming soon....More Projects and Deployment... It's All Good!!!<br>📫 How to reach me: cragardev@gmail.com<br>✌🏻✌🏻 Have a GREAT day!!!! ☕️😎<br>
 
 
 ## 🌐 Socials:
