@@ -1,15 +1,23 @@
 ![CraigBurkeReadMeHeader09](https://github.com/CragarDev/CragarDev/assets/98239300/82e8b424-7e24-46d6-8fc2-eb4c7c49615d)
 
-# 💫 Hello and welcome...
+# 💫 Hi and welcome to my hub...
 
 ## A little bit about me:
-👋 Hi , I’m @CragarDev, or you can call me Craig or Cragar<br>🚁 Reside in Norman OK with a wonderful wife and 2 grandsons that we are raising<br>👀 My interests span a lot of things, it changes daily. 😎💻📱🕹🎧🎸🎶🏡👨‍👩‍👦‍👦<br>🌱 Recently graduated from Coding Dojo bootcamp, where I learned three full stacks of web development - Python, Java and MERN Stacks<br>🖥 
+👋 Hi , I’m @Cragardev, or you can call me Craig or Cragar<br>🚁 I Reside in Norman OK with my wonderful wife Kim along with our grandson Sam who has DownSyndrom, but that doesn't stop him from doing any thing he wants to... lol<br>👀 My interests span a lot of items, it changes daily with my mood. 😎💻📱🕹🎧🎸🎶🏡👨‍👩‍👦‍👦<br>🌱 Currently working on backend development with Python, Django and using React for the frontend. and Playing in an alt rock band out of Normon OK, -- Dirt Road Saints<br>🖥 
 
 
-## Since the bootcamp:
-My freelance video production had kept me extremely busy, it has now slowed down a bit and I find myself looking for work as a developer, if you know of a position that might be available please contact me, thanks!
-I'm also a guitar player in a local alt-southern-rock band called the Dirt Road Saints, we have recently started to gig in the Norman Ok area...<br>
-And... to keep on developing, I recently built a project using Python/TKinter it was a personal budgeting app.<br><br>Recent Projects:<br<     👨🏼‍💻  My Portfolio - https://craigburke-portfolio.netlify.app<br>     🖲  Some of my deployments have been: a MERN project: My Home Inventory, a React Project: My Garage Sale and I'm currently Working on: a Python/Django project building a user based web app that connects home owners with service providers in the landscape business<br><br>💞️ coming soon....More Projects and Deployment... It's All Good!!!<br>📫 How to reach me: cragardev@gmail.com<br>✌🏻✌🏻 Have a GREAT day!!!! ☕️😎<br>
+## A little more about me:
+I freelance in video production and it has kept me extremely busy, but it has slown down quite a bit and I find myself looking for work.<br>
+I'm looking to work as a backend developer using python/Django/Flask/FastAPI or something along those lines. <br>
+If you know of a position that might be available please contact me if you would, I'd appreciate it, thanks!<br>
+I'm also a guitar player in a local alt-southern-rock band called the Dirt Road Saints, we gig occasionally  in the Norman Ok area, check us out if you can, we have a blast...<br>
+
+## Recent developments:
+Recent apps/scripts that I have built include: A blender add-on called CameraCaddy that helps 3D artists using Blender to manage their cameras in the project.; A few automation scripts/apps that help my financial reporting.; A kind of casino game setup that I started, it houses games like black jack and a war card game that I made that instead of just flipping cards, the players select from their hand of 5 card and the game goes from there.; A project using Python/TKinter it was a personal budgeting app.<br>
+🖲  I'm currently Working on building a Blog/Community site for sourdough lovers and a Python/Django project building a user based web app that connects home owners with service providers in the landscape business<br>
+👨🏼‍💻 My Portfolio - https://craigburke-portfolio.netlify.app<br>     
+💞️ coming soon....More Projects and Deployment... It's All Good!!!<br>
+📫 How to reach me: cragardev@gmail.com<br>✌🏻✌🏻 Have a GREAT day!!!! ☕️😎<br>
 
 
 ## 🌐 Socials:
