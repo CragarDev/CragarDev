@@ -14,8 +14,9 @@ I'm also a guitar player in a local alt-southern-rock band called the Dirt Road 
 
 ## Recent developments:
 Recent apps/scripts that I have built include: A blender add-on called CameraCaddy that helps 3D artists using Blender to manage their cameras in the project.; A few automation scripts/apps that help my financial reporting.; A kind of casino game setup that I started, it houses games like black jack and a war card game that I made that instead of just flipping cards, the players select from their hand of 5 card and the game goes from there.; A project using Python/TKinter it was a personal budgeting app.<br>
-🖲  I'm currently Working on building a Blog/Community site for sourdough lovers and a Python/Django project building a user based web app that connects home owners with service providers in the landscape business<br>
-👨🏼‍💻 My Portfolio - https://craigburke-portfolio.netlify.app<br>     
+🖲 I'm currently Working on building a Blog/Community site for sourdough lovers and a user based web app that connects home owners with service providers in the landscape business<br>
+👨🏼‍💻 My Portfolio - https://craigburke-portfolio.netlify.app<br>
+👨🏼‍💻 My freelance site - https://fishblademedia.com<br>
 💞️ coming soon....More Projects and Deployment... It's All Good!!!<br>
 📫 How to reach me: cragardev@gmail.com<br>✌🏻✌🏻 Have a GREAT day!!!! ☕️😎<br>
 
