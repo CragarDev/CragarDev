@@ -13,6 +13,10 @@ If you know of a position that might be available please contact me if you would
 I'm also a guitar player in a local alt-southern-rock band called the Dirt Road Saints, we gig occasionally  in the Norman Ok area, check us out if you can, we have a blast...<br>
 
 ## Recent developments:
+I’m building an iOS app in Swift called Kevoa — a powerful all-in-one tool designed for rideshare and delivery drivers. 
+Kevoa helps drivers stay on top of everything: income, expenses, mileage, shifts, and even vehicle maintenance.
+It also generates smart daily, weekly, monthly, and end-of-year tax reports, making record-keeping and tax season way easier.
+
 Recent apps/scripts that I have built include: A blender add-on called CameraCaddy that helps 3D artists using Blender to manage their cameras in the project.; A few automation scripts/apps that help my financial reporting.; A kind of casino game setup that I started, it houses games like black jack and a war card game that I made that instead of just flipping cards, the players select from their hand of 5 card and the game goes from there.; A project using Python/TKinter it was a personal budgeting app.<br>
 ☀️ I'm currently Working on building a Blog/Community site for sourdough lovers and a user based web app that connects home owners with service providers in the landscape business<br>
 💼 My Portfolio - https://craigburke-portfolio.netlify.app<br>
