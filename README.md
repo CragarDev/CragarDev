@@ -1,28 +1,55 @@
 ![CraigBurkeReadMeHeader09](https://github.com/CragarDev/CragarDev/assets/98239300/82e8b424-7e24-46d6-8fc2-eb4c7c49615d)
 
-# 💫 Hi and welcome to my hub...
+💫 Hi and welcome to my hub…
 
-## A little bit about me:
-👋 Hi , I’m @Cragardev, or you can call me Craig or Cragar<br>🚁 I Reside in Norman OK with my wonderful wife Kim along with our grandson Sam who has DownSyndrom, but that doesn't stop him from doing any thing he wants to... lol<br>👀 My interests span a lot of items, it changes daily with my mood. 😎💻📱🕹🎧🎸🎶🏡👨‍👩‍👦‍👦<br>🌱 Currently working on backend development with Python, Django and using React for the frontend. and Playing in an alt rock band out of Normon OK, -- Dirt Road Saints<br>🖥 
+👋 A little bit about me
 
+Hey! I’m @Cragardev — but Craig or Cragar works just fine.
+I live in Norman, OK with my amazing wife Kim and our grandson Sam, who has Down Syndrome but refuses to let anything slow him down. 😎🔥
 
-## A little more about me:
-I freelance in video production and it has kept me extremely busy, but it has slown down quite a bit and I find myself looking for work.<br>
-I'm looking to work as a backend developer using python/Django/Flask/FastAPI or something along those lines. <br>
-If you know of a position that might be available please contact me if you would, I'd appreciate it, thanks!<br>
-I'm also a guitar player in a local alt-southern-rock band called the Dirt Road Saints, we gig occasionally  in the Norman Ok area, check us out if you can, we have a blast...<br>
+I bounce between a bunch of interests depending on the day:
+💻 Coding • 🎸 Guitar • 🎥 Video & Motion Graphics • 📱 App Dev • 🤘 Alt rock • 🕹 Games • 🧁 Baking • 🏡 DIY • and whatever else grabs my brain that morning.
 
-## Recent developments:
-I’m building an iOS app in Swift called Kevoa — a powerful all-in-one tool designed for rideshare and delivery drivers. 
-Kevoa helps drivers stay on top of everything: income, expenses, mileage, shifts, and even vehicle maintenance.
-It also generates smart daily, weekly, monthly, and end-of-year tax reports, making record-keeping and tax season way easier.
+Right now I’m deep into Python/Django backend development, React frontends, and SwiftUI for iOS apps — and still playing guitar in the alt-southern-rock band Dirt Road Saints here in Norman.
 
-Recent apps/scripts that I have built include: A blender add-on called CameraCaddy that helps 3D artists using Blender to manage their cameras in the project.; A few automation scripts/apps that help my financial reporting.; A kind of casino game setup that I started, it houses games like black jack and a war card game that I made that instead of just flipping cards, the players select from their hand of 5 card and the game goes from there.; A project using Python/TKinter it was a personal budgeting app.<br>
-☀️ I'm currently Working on building a Blog/Community site for sourdough lovers and a user based web app that connects home owners with service providers in the landscape business<br>
-💼 My Portfolio - https://craigburke-portfolio.netlify.app<br>
-🖥️ My freelance site - https://fishblademedia.com<br>
-🔮 coming soon....More Projects and Deployment... It's All Good!!!<br>
-📫 How to reach me: cragardev@gmail.com<br>✌🏻✌🏻 Have a GREAT day!!!! ☕️😎<br>
+⸻
+
+🚗📱 My Current Major Project — Kevoa
+
+I’m building an iOS app called Kevoa — a powerful all-in-one tool for rideshare and delivery drivers (Uber, Lyft, DoorDash, etc.).
+Kevoa helps drivers stay completely on top of their work:
+	•	Track income, expenses, transfers, and cash flow
+	•	Log mileage, fill-ups, MPG, and vehicle maintenance
+	•	Manage shifts, earnings, and weekly totals
+	•	Run smart daily, weekly, monthly & yearly tax reports
+	•	Generate exportable PDFs/CSVs for taxes or bookkeeping
+	•	Beautiful dashboards + dark mode UI
+
+It’s built in SwiftUI + SwiftData, and the goal is to make it the most intuitive driver tool on the App Store.
+
+⸻
+
+🛠️ Other Things I Build
+
+When I’m not knee-deep in Kevoa, I’m usually creating something like:
+	•	🎥 CameraCaddy — a Blender add-on for managing multiple cameras in complex scenes
+	•	🧮 Personal automation tools for budgeting and financial reporting
+	•	🎮 A mini casino-style game framework (Blackjack & a custom “War-style” card game)
+	•	💰 A Python/Tkinter budgeting desktop app
+	•	🍞 A full stack blog + community platform for sourdough bakers (Django backend, React frontend)
+	•	🌿 A web app connecting homeowners with landscape service providers
+
+I also freelance in video production, animation, and motion graphics, and I’m always open to work.
+
+⸻
+
+💼 Portfolio & Links
+	•	🎬 My Portfolio: https://craigburke-portfolio.netlify.app
+	•	🧰 Freelance Site: https://fishblademedia.com
+	•	📫 Reach me: cragardev@gmail.com
+
+More projects, deployments, and experiments always on the way.
+☕️😎 Thanks for stopping by — have an awesome day!
 
 
 ## 🌐 Socials:
