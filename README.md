@@ -1,3 +1,5 @@
+![Craig Burke — Software Developer Banner](https://github.com/user-attachments/assets/442bebe8-d602-4a42-aa87-23ad56478b2c)
+
 # Hey, I'm Craig! 👋
 
 ### Python Developer | Full-Stack Development | Software Automation | iOS Development
